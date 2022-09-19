@@ -1,4 +1,13 @@
-# landing-page
-For this project you’ll be creating an entire web page from a design we’ll provide for you. If you’ve been following along you should have the skills you need to accomplish this, but it may not be easy!
+## Landing Page
 
-The design we’re providing you comes in the form of 2 images: one is an image of the complete website, and one has some details about some of the fonts and colors we’ve used.
+This is a landing page created for an imaginary business.
+Design provided by The Odin Project but minor changes, images and color schemes I added my own twist to it.
+
+Live Preview: https://miarothman.github.io/landing-page/
+
+Built Using:
+- HTML5
+- CSS3
+
+Screenshot:
+<img src="images/screenshot.png">
